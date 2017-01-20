@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.9.1",
         status: false,
-        name: "KamurkeBot",
+        name: "Botulis",
         loggedInID: null,
         scriptLink: "https://rawgit.com/patoxoro19/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "KamurkeBot",
+            botName: "Botulis",
             language: "english",
             chatLink: "https://rawgit.com/patoxoro19/source/master/lang/en.json",
             scriptLink: "https://rawgit.com/patoxoro19/source/master/basicBot.js",
