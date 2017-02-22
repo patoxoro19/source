@@ -280,7 +280,7 @@
             usercommandsEnabled: true,
             thorCommand: true,
             thorCooldown: 10,
-            skipPosition: 3,
+            skipPosition: 1,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
@@ -295,7 +295,7 @@
             motdEnabled: false,
             motdInterval: 5,
             motd: "Bibys be teva augis",
-            filterChat: true,
+            filterChat: false,
             etaRestriction: false,
             welcome: true,
             opLink: null,
